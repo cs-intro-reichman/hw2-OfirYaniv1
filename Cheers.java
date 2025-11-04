@@ -15,6 +15,7 @@ public class Cheers {
                         System.out.println("Give me an " + ch + ": " + ch + "!");
                 }
             }
+            System.out.println("What does that spell?");
             for(int i = 0; i < times; i++){
                 System.out.println(word + "!!!");
             }
