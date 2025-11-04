@@ -9,7 +9,7 @@ public class Cheers {
                 char ch = word.charAt(i);
                 int index = problem.indexOf(ch);
                 if (index == -1) {
-                    System.out.println("Give me a " + ch + ": " + ch + "!");    
+                    System.out.println("Give me a  " + ch + ": " + ch + "!");    
                 }
                 else{
                         System.out.println("Give me an " + ch + ": " + ch + "!");
